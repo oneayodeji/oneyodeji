@@ -20,14 +20,20 @@ When I'm not working with data, I enjoy working out, playing soccer, learning ho
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Support Ticket Analytics
+- Evaluated ticket volume, resolution time, and agent performance
+- Identified bottlenecks in ticket resolution workflow
+- Reduced average resolution time by 67%
+- **Project B:** Operational KPI Scorecard
+- Built KPI framework for tracking efficiency and cost savings
+- Achieved $145K cost savings through process optimization
+- **Content Creation:** Working on Developing workout plans and tutorial videos - Monthly insights on body fat changes, strength progesssion 
 
 ## 🌱 Currently Learning 
 
 - Panadas for Data Manipulation & Report Automation with Python
 - User Behvaior Analysis and Funnel Analysis
+- Content Creation - Data thinking for Fitness
 
 ## 🛠️ Technical Skillset
 
