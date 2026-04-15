@@ -4,6 +4,7 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
+   <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:ayodeji.deji@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -12,7 +13,7 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy Working Out, Playing Soccer, Learning how to cook new receipies. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy working out, playing soccer, learning how to cook new receipies. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
@@ -25,7 +26,7 @@ When I'm not working with data, I enjoy Working Out, Playing Soccer, Learning ho
 
 ## 🌱 Currently Learning 
 
-- Panadas for data amnipulation & Report Automation with Python
+- Panadas for Data Manipulation & Report Automation with Python
 - User Behvaior Analysis and Funnel Analysis
 
 ## 🛠️ Technical Skillset
